@@ -10,7 +10,6 @@ public class Cliente {
     private Endereco endereco; // atrubuto de referencia
 
 
-
     // metodos setters (entrada) e metodos Getters (exibir)
 
     public Endereco getEndereco() {
